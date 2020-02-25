@@ -1,0 +1,17 @@
+* {
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+header {
+    color: #FAFBFD;
+}
+
+h1 {
+    color: #FAFBFD;
+
+}
+
+textarea {
+
+    border-style: dotted;
+}
